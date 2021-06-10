@@ -6,8 +6,8 @@ namespace ConsoleApp5
     {
         static void Main(string[] args)
         {
-            //to jest komentarzz
-            Console.WriteLine("TO JEST PIERWSZA LINIJKKA KODU ");
+            //to jest komentarzzfsdfsdbg ggxcbgfxfcgbdfzbgvfzvcxzbv zxcv
+            Console.WriteLine("TO JEST PIERWSZA LINIJKKA KODUvxczvcxzzxcvcvxzxcvzzxcvzxdfbh ncnbggdzfcbn bzdgz ");
         }
     }
 }
